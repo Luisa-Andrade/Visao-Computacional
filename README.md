@@ -1,7 +1,5 @@
 # Visao-Computacional
 
-Grupo:  João Bille
-
-        Luisa de Andrade
-        
-        Thiago Moraes
+Grupo: Nome 1<br>
+       Nome 2<br>
+       Nome 3
