@@ -1,4 +1,4 @@
-# Visao-Computacional
+# Visão Computacional
 
 | Grupo         |
 |---------------|
