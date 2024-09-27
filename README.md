@@ -2,7 +2,7 @@
 
 | Grupo         |
 |---------------|
-| João Bille    |
+| João Victor Lima    |
 | Luisa de Andrade |
 | Thiago Moraes |
 
