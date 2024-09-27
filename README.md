@@ -11,4 +11,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;- Nome do objeto e a variação do mesmo - variação entre dia e noite - variação dentro ou fora (in/out) - variação do fundo .csv <br>
 - A Tabela-Detalhada contém a tabela com todas informações por imagem da seguinte forma: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;- Nome do objeto | Variação do Objeto | Dia/Noite | Ambiente | Fundo | Tamanho (KB) | Dimensão (pixels) (Largura x Altura) | URL da Imagem <br>
+- A Tabela-Global contém a tabela com as seguintes informações: <br>
+&nbsp;&nbsp;&nbsp;&nbsp;- Número de Classes	| Número de Imagens | Tamanho da Base (bytes) <br>
 - O EPs-1 contém o código em Python que visualiza a base usando funções MNIST-like.
