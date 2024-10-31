@@ -5,7 +5,7 @@ from io import BytesIO              # útil para trabalhar com imagens baixadas 
 import matplotlib.pyplot as plt     # permite gerar os plots das figuras
 
 # Localizar o arquivo da tabela (CSV) através da URL do GitHub
-url_csv = 'https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/refs/heads/main/Tabela-Detalhada.csv'
+url_csv = 'https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/refs/heads/main/Tabela-Detalhada-EP1.csv'
 
 # Ler o arquivo CSV da URL especificada e armazenar os dados em um DataFrame (df), o qual nomeei como "tabela"
 tabela = pd.read_csv(url_csv) 
