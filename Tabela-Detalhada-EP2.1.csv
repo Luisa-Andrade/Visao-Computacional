@@ -1,10 +1,10 @@
 Nome do Objeto,Variação do Objeto,Dia/Noite,Funções,Ambiente,Fundo,Tamanho (KB),Dimensão (pixels) (Largura x Altura),URL da Imagem
-Caneca,1,dia,Original,in,7,2548.7,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Caneca1-dia-in-7.jpg
-Caneca,1,dia,Original,in,8,2078.72,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Caneca1-dia-in-8.jpg
-Caneca,1,dia,Original,in,9,1840.28,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Caneca1-dia-in-9.jpg
-Caneca,1,dia,Original,out,11,2728.86,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Caneca1-dia-out-11.jpg
-Caneca,1,dia,Original,out,12,2198.39,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Caneca1-dia-out-12.jpg
-Caneca,1,dia,Original,out,13,3346.03,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Caneca1-dia-out-13.jpg
+Caneca,1,dia,Original,in,7,2548.7,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Caneca1-dia-in-fundo7.jpg
+Caneca,1,dia,Original,in,8,2078.72,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Caneca1-dia-in-fundo8.jpg
+Caneca,1,dia,Original,in,9,1840.28,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Caneca1-dia-in-fundo9.jpg
+Caneca,1,dia,Original,out,11,2728.86,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Caneca1-dia-out-fundo11.jpg
+Caneca,1,dia,Original,out,12,2198.39,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Caneca1-dia-out-fundo12.jpg
+Caneca,1,dia,Original,out,13,3346.03,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Caneca1-dia-out-fundo13.jpg
 Caneca,1,dia,GrayScale,in,7,707.72,4080 x 3072,https://drive.google.com/uc?id=1ouYw0EHgl4qr5sXcbJeBJVBoLMZl9QoW&export=download
 Caneca,1,dia,GrayScale,in,8,528.73,4080 x 3072,https://drive.google.com/uc?id=1UUV4fagDnLwFZ09zOfqy3PN9K_gBbubj&export=download
 Caneca,1,dia,GrayScale,in,9,385.55,4080 x 3072,https://drive.google.com/uc?id=1bwfh7SIlzKA8nOufD8r4hUB4H5NknnQU&export=download
@@ -35,12 +35,12 @@ Caneca,1,dia,GrayScale Log Transform,out,11,1486.7,3072 x 4080,https://drive.goo
 Caneca,1,dia,GrayScale Log Transform,in,9,776.33,3072 x 4080,https://drive.google.com/uc?id=1xVSqF3SK6UN7crTJdCbXVpLFhQzRnd0l&export=download
 Caneca,1,dia,GrayScale Log Transform,in,8,1097.54,3072 x 4080,https://drive.google.com/uc?id=16Ug46y32nGp6fJsRthcdoIvn5gbTLeBZ&export=download
 Caneca,1,dia,GrayScale Log Transform,in,7,1402.57,3072 x 4080,https://drive.google.com/uc?id=1PMeUbCxxO083dJVdtmf9HY-vmDj-IVqJ&export=download
-Caneca,1,noite,Original,in,7,1517.98,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Caneca1-noite-in-7.jpg
-Caneca,1,noite,Original,in,8,2473.94,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Caneca1-noite-in-8.jpg
-Caneca,1,noite,Original,in,9,1436.16,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Caneca1-noite-in-9.jpg
-Caneca,1,noite,Original,out,12,2417.65,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Caneca1-noite-out-12.jpg
-Caneca,1,noite,Original,out,14,2284.59,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Caneca1-noite-out-14.jpg
-Caneca,1,noite,Original,out,15,3718.71,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Caneca1-noite-out-15.jpg
+Caneca,1,noite,Original,in,7,1517.98,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Caneca1-noite-in-fundo7.jpg
+Caneca,1,noite,Original,in,8,2473.94,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Caneca1-noite-in-fundo8.jpg
+Caneca,1,noite,Original,in,9,1436.16,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Caneca1-noite-in-fundo9.jpg
+Caneca,1,noite,Original,out,12,2417.65,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Caneca1-noite-out-fundo12.jpg
+Caneca,1,noite,Original,out,14,2284.59,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Caneca1-noite-out-fundo14.jpg
+Caneca,1,noite,Original,out,15,3718.71,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Caneca1-noite-out-fundo15.jpg
 Caneca,1,noite,GrayScale,in,7,422.86,4080 x 3072,https://drive.google.com/uc?id=1JAmSfjfaqVCwiCbs6oinn0YXcZDr4DJ9&export=download
 Caneca,1,noite,GrayScale,in,8,802.23,4080 x 3072,https://drive.google.com/uc?id=14dmtWb3FMYyLQZC-A1Z-Xxys9N5-16Fc&export=download
 Caneca,1,noite,GrayScale,in,9,296.1,4080 x 3072,https://drive.google.com/uc?id=1TEqz6lncXFfOjzysY3dzPcXhVZHZDIbs&export=download
@@ -71,12 +71,12 @@ Caneca,1,noite,GrayScale Log Transform,out,12,1467.79,3072 x 4080,https://drive.
 Caneca,1,noite,GrayScale Log Transform,in,9,580.61,3072 x 4080,https://drive.google.com/uc?id=13kBxJA3F_nRTkdzSYLwaqMs3_tMrxWk6&export=download
 Caneca,1,noite,GrayScale Log Transform,in,8,1614.57,3072 x 4080,https://drive.google.com/uc?id=1xoeK36nZVZXjCveYl3vtpD7NaCHwl5Yd&export=download
 Caneca,1,noite,GrayScale Log Transform,in,7,846.33,3072 x 4080,https://drive.google.com/uc?id=1brLusxyXhASna0FxDgpRlPx14T8OV2BT&export=download
-Caneca,2,dia,Original,in,7,1921.53,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Caneca2-dia-in-7.jpg
-Caneca,2,dia,Original,in,8,2045.36,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Caneca2-dia-in-8.jpg
-Caneca,2,dia,Original,in,9,1587.42,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Caneca2-dia-in-9.jpg
-Caneca,2,dia,Original,out,11,2763.03,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Caneca2-dia-out-11.jpg
-Caneca,2,dia,Original,out,12,2854.79,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Caneca2-dia-out-12.jpg
-Caneca,2,dia,Original,out,13,3066.45,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Caneca2-dia-out-13.jpg
+Caneca,2,dia,Original,in,7,1921.53,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Caneca2-dia-in-fundo7.jpg
+Caneca,2,dia,Original,in,8,2045.36,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Caneca2-dia-in-fundo8.jpg
+Caneca,2,dia,Original,in,9,1587.42,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Caneca2-dia-in-fundo9.jpg
+Caneca,2,dia,Original,out,11,2763.03,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Caneca2-dia-out-fundo11.jpg
+Caneca,2,dia,Original,out,12,2854.79,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Caneca2-dia-out-fundo12.jpg
+Caneca,2,dia,Original,out,13,3066.45,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Caneca2-dia-out-fundo13.jpg
 Caneca,2,dia,GrayScale,in,7,460.32,4080 x 3072,https://drive.google.com/uc?id=1nSLTeLn9ShMbnmuIkFU5Fl9V4BJQ_MLW&export=download
 Caneca,2,dia,GrayScale,in,8,520.04,4080 x 3072,https://drive.google.com/uc?id=1vc7HMOFGoy0ZmPRJ7Ml6o0zfO8TP8AUG&export=download
 Caneca,2,dia,GrayScale,in,9,326.99,4080 x 3072,https://drive.google.com/uc?id=1D8Rlr2n5-_ttBCDy_Hhn71_CTamVpqwG&export=download
@@ -107,12 +107,12 @@ Caneca,2,dia,GrayScale Log Transform,out,11,1672.97,3072 x 4080,https://drive.go
 Caneca,2,dia,GrayScale Log Transform,in,9,652.01,3072 x 4080,https://drive.google.com/uc?id=1TaBYpEoSfoVDCwY7kV1PTF1wXc_1qPL5&export=download
 Caneca,2,dia,GrayScale Log Transform,in,8,1070.63,3072 x 4080,https://drive.google.com/uc?id=15Qycw3DW-lC18lWsejqLq86e5ZAOn3uK&export=download
 Caneca,2,dia,GrayScale Log Transform,in,7,902.73,3072 x 4080,https://drive.google.com/uc?id=1WDrpsrqZ7efgRAbvaP8Ua9or5xD78v0O&export=download
-Caneca,2,noite,Original,in,7,2789.97,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Caneca2-noite-in-7.jpg
-Caneca,2,noite,Original,in,8,3234.07,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Caneca2-noite-in-8.jpg
-Caneca,2,noite,Original,in,9,1963.21,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Caneca2-noite-in-9.jpg
-Caneca,2,noite,Original,out,12,2430.92,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Caneca2-noite-out-12.jpg
-Caneca,2,noite,Original,out,14,2130.18,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Caneca2-noite-out-14.jpg
-Caneca,2,noite,Original,out,15,3063.42,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Caneca2-noite-out-15.jpg
+Caneca,2,noite,Original,in,7,2789.97,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Caneca2-noite-in-fundo7.jpg
+Caneca,2,noite,Original,in,8,3234.07,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Caneca2-noite-in-fundo8.jpg
+Caneca,2,noite,Original,in,9,1963.21,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Caneca2-noite-in-fundo9.jpg
+Caneca,2,noite,Original,out,12,2430.92,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Caneca2-noite-out-fundo12.jpg
+Caneca,2,noite,Original,out,14,2130.18,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Caneca2-noite-out-fundo14.jpg
+Caneca,2,noite,Original,out,15,3063.42,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Caneca2-noite-out-fundo15.jpg
 Caneca,2,noite,GrayScale,in,7,812.36,4080 x 3072,https://drive.google.com/uc?id=1Iy6-IxBj_9eag2tZ3bX9N9_aItUClYjT&export=download
 Caneca,2,noite,GrayScale,in,8,1055.59,4080 x 3072,https://drive.google.com/uc?id=1JJOs1qcrOavMgi06skNtIu34wbUzLDMK&export=download
 Caneca,2,noite,GrayScale,in,9,459.05,4080 x 3072,https://drive.google.com/uc?id=107sqh6tkm9aKHwD7SstrallsDSJPd0ij&export=download
@@ -143,12 +143,12 @@ Caneca,2,noite,GrayScale Log Transform,out,12,1506.57,3072 x 4080,https://drive.
 Caneca,2,noite,GrayScale Log Transform,in,9,927.69,3072 x 4080,https://drive.google.com/uc?id=1Ez6KLdmfi_AX0OlM8EBYKXa--orlUCWH&export=download
 Caneca,2,noite,GrayScale Log Transform,in,8,2078.05,3072 x 4080,https://drive.google.com/uc?id=1uefPaYu1Gcd3vTcu1JsnLjLlQYdISzNr&export=download
 Caneca,2,noite,GrayScale Log Transform,in,7,1603.22,3072 x 4080,https://drive.google.com/uc?id=1Ss9rMEBjng0nNgGUGob_87Mgqh0AqEI_&export=download
-Caneca,3,dia,Original,in,2,2000.18,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Caneca3-dia-in-2.jpg
-Caneca,3,dia,Original,in,7,1970.57,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Caneca3-dia-in-7.jpg
-Caneca,3,dia,Original,in,9,2045.52,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Caneca3-dia-in-9.jpg
-Caneca,3,dia,Original,out,11,2677.02,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Caneca3-dia-out-11.jpg
-Caneca,3,dia,Original,out,12,2425.1,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Caneca3-dia-out-12.jpg
-Caneca,3,dia,Original,out,13,3019.54,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Caneca3-dia-out-13.jpg
+Caneca,3,dia,Original,in,2,2000.18,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Caneca3-dia-in-fundo2.jpg
+Caneca,3,dia,Original,in,7,1970.57,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Caneca3-dia-in-fundo7.jpg
+Caneca,3,dia,Original,in,9,2045.52,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Caneca3-dia-in-fundo9.jpg
+Caneca,3,dia,Original,out,11,2677.02,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Caneca3-dia-out-fundo11.jpg
+Caneca,3,dia,Original,out,12,2425.1,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Caneca3-dia-out-fundo12.jpg
+Caneca,3,dia,Original,out,13,3019.54,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Caneca3-dia-out-fundo13.jpg
 Caneca,3,dia,GrayScale,in,2,504.8,4080 x 3072,https://drive.google.com/uc?id=1v3FOn3OeeEJm_Fs0Ced9xjp6StRztXbO&export=download
 Caneca,3,dia,GrayScale,in,7,485.0,4080 x 3072,https://drive.google.com/uc?id=1Fu-mbJ_rWtRJ48UJbKEprmmArdfsveks&export=download
 Caneca,3,dia,GrayScale,in,9,487.79,4080 x 3072,https://drive.google.com/uc?id=18aaIOp8L5vZW2P7wT5ozhScdhB4NBDHp&export=download
@@ -179,12 +179,12 @@ Caneca,3,dia,GrayScale Log Transform,out,11,1477.69,3072 x 4080,https://drive.go
 Caneca,3,dia,GrayScale Log Transform,in,9,977.64,3072 x 4080,https://drive.google.com/uc?id=1Gi6NDZre1TJd-V55R9KYuNEtbrom9Lwu&export=download
 Caneca,3,dia,GrayScale Log Transform,in,7,975.94,3072 x 4080,https://drive.google.com/uc?id=1_thp4EADrU1Kga9OQQLDQHycsqUOTI6A&export=download
 Caneca,3,dia,GrayScale Log Transform,in,2,1064.03,3072 x 4080,https://drive.google.com/uc?id=1zcvdUKpp9KqwyiIUBJpKOtX3hZajSrmW&export=download
-Caneca,3,noite,Original,in,7,2530.45,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Caneca3-noite-in-7.jpg
-Caneca,3,noite,Original,in,8,2382.61,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Caneca3-noite-in-8.jpg
-Caneca,3,noite,Original,in,9,1647.46,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Caneca3-noite-in-9.jpg
-Caneca,3,noite,Original,out,12,2539.99,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Caneca3-noite-out-12.jpg
-Caneca,3,noite,Original,out,14,2245.31,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Caneca3-noite-out-14.jpg
-Caneca,3,noite,Original,out,15,2432.22,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Caneca3-noite-out-15.jpg
+Caneca,3,noite,Original,in,7,2530.45,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Caneca3-noite-in-fundo7.jpg
+Caneca,3,noite,Original,in,8,2382.61,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Caneca3-noite-in-fundo8.jpg
+Caneca,3,noite,Original,in,9,1647.46,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Caneca3-noite-in-fundo9.jpg
+Caneca,3,noite,Original,out,12,2539.99,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Caneca3-noite-out-fundo12.jpg
+Caneca,3,noite,Original,out,14,2245.31,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Caneca3-noite-out-fundo14.jpg
+Caneca,3,noite,Original,out,15,2432.22,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Caneca3-noite-out-fundo15.jpg
 Caneca,3,noite,GrayScale,in,7,707.62,4080 x 3072,https://drive.google.com/uc?id=1hvaNtyDKOjE0PNAu-_cKGXcujggEX3Sd&export=download
 Caneca,3,noite,GrayScale,in,8,687.31,4080 x 3072,https://drive.google.com/uc?id=1hWF1SqPonNd3guITDpP3ArtNat9NedzM&export=download
 Caneca,3,noite,GrayScale,in,9,389.79,4080 x 3072,https://drive.google.com/uc?id=1oFAJXBETtZpvFL6efEAEHMKhV8XD4Y4A&export=download
@@ -215,12 +215,12 @@ Caneca,3,noite,GrayScale Log Transform,out,12,1567.39,3072 x 4080,https://drive.
 Caneca,3,noite,GrayScale Log Transform,in,9,781.51,3072 x 4080,https://drive.google.com/uc?id=1d6OE_E6Uv2cguvuMOpzKgZz6BEg6-gC-&export=download
 Caneca,3,noite,GrayScale Log Transform,in,8,1393.36,3072 x 4080,https://drive.google.com/uc?id=1AFRDzDpWPs9n9OthAoOUd7q_avPNoGkU&export=download
 Caneca,3,noite,GrayScale Log Transform,in,7,1383.55,3072 x 4080,https://drive.google.com/uc?id=1D0M0ASqwVIi4VBQ0rntdb21XtN-mMgy8&export=download
-Chave,1,dia,Original,in,1,195.04,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Chave1-dia-in-1.jpeg
-Chave,1,dia,Original,in,2,173.46,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Chave1-dia-in-2.jpeg
-Chave,1,dia,Original,in,3,136.1,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Chave1-dia-in-3.jpeg
-Chave,1,dia,Original,out,4,422.88,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Chave1-dia-out-4.jpeg
-Chave,1,dia,Original,out,5,270.08,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Chave1-dia-out-5.jpeg
-Chave,1,dia,Original,out,6,389.45,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Chave1-dia-out-6.jpeg
+Chave,1,dia,Original,in,1,195.04,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Chave1-dia-in-fundo1.jpeg
+Chave,1,dia,Original,in,2,173.46,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Chave1-dia-in-fundo2.jpeg
+Chave,1,dia,Original,in,3,136.1,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Chave1-dia-in-fundo3.jpeg
+Chave,1,dia,Original,out,4,422.88,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Chave1-dia-out-fundo4.jpeg
+Chave,1,dia,Original,out,5,270.08,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Chave1-dia-out-fundo5.jpeg
+Chave,1,dia,Original,out,6,389.45,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Chave1-dia-out-fundo6.jpeg
 Chave,1,dia,GrayScale,in,3,132.66,1204 x 1600,https://drive.google.com/uc?id=1CAz_FPdRNTStgnYt6tyQ0jv7llWo2Urh&export=download
 Chave,1,dia,GrayScale,out,4,438.64,1204 x 1600,https://drive.google.com/uc?id=1xybMggZ6reWHJJy_RFIsfKuMtQCcbUju&export=download
 Chave,1,dia,GrayScale,in,2,164.25,1204 x 1600,https://drive.google.com/uc?id=1qFCkx3MRt0TmrNFfBYVRB1nLoc7AhDIF&export=download
@@ -251,12 +251,12 @@ Chave,1,dia,GrayScale Log Transform,out,4,847.01,1204 x 1600,https://drive.googl
 Chave,1,dia,GrayScale Log Transform,out,5,476.18,1204 x 1600,https://drive.google.com/uc?id=1lbVFehRjN_Yj3umiWv2ELy-GnXX2VB1N&export=download
 Chave,1,dia,GrayScale Log Transform,in,3,258.17,1204 x 1600,https://drive.google.com/uc?id=1fg-LCvwR2iylPjxXX8NZJdA5LsSjzdkG&export=download
 Chave,1,dia,GrayScale Log Transform,in,2,348.84,1204 x 1600,https://drive.google.com/uc?id=1EMLEdxn7lR0CLicwmd7iio3zIFfh1BT8&export=download
-Chave,1,noite,Original,in,1,232.63,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Chave1-noite-in-1.jpeg
-Chave,1,noite,Original,in,2,246.36,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Chave1-noite-in-2.jpeg
-Chave,1,noite,Original,in,3,176.7,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Chave1-noite-in-3.jpeg
-Chave,1,noite,Original,out,4,316.29,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Chave1-noite-out-4.jpeg
-Chave,1,noite,Original,out,5,190.07,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Chave1-noite-out-5.jpeg
-Chave,1,noite,Original,out,6,192.19,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Chave1-noite-out-6.jpeg
+Chave,1,noite,Original,in,1,232.63,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Chave1-noite-in-fundo1.jpeg
+Chave,1,noite,Original,in,2,246.36,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Chave1-noite-in-fundo2.jpeg
+Chave,1,noite,Original,in,3,176.7,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Chave1-noite-in-fundo3.jpeg
+Chave,1,noite,Original,out,4,316.29,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Chave1-noite-out-fundo4.jpeg
+Chave,1,noite,Original,out,5,190.07,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Chave1-noite-out-fundo5.jpeg
+Chave,1,noite,Original,out,6,192.19,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Chave1-noite-out-fundo6.jpeg
 Chave,1,noite,GrayScale,out,6,187.75,1204 x 1600,https://drive.google.com/uc?id=1rNQpGH_maA3WVj6J4ZL36P6ygfgFUmo8&export=download
 Chave,1,noite,GrayScale,out,5,174.6,1204 x 1600,https://drive.google.com/uc?id=1AM7KlLEqP4CW9KMg2nhdIuee5o-Nd96u&export=download
 Chave,1,noite,GrayScale,in,2,238.25,1204 x 1600,https://drive.google.com/uc?id=1P2bIFN3so7Yu8L3SNBpNIUkkvqPlV-9z&export=download
@@ -287,12 +287,12 @@ Chave,1,noite,GrayScale Log Transform,out,4,604.26,1204 x 1600,https://drive.goo
 Chave,1,noite,GrayScale Log Transform,in,3,341.75,1204 x 1600,https://drive.google.com/uc?id=1iT1zmVlmzOnVHhqOKOPRM8KHP9phfGaX&export=download
 Chave,1,noite,GrayScale Log Transform,in,2,485.69,1204 x 1600,https://drive.google.com/uc?id=1jjzD7WJt1qb9xbYy1kBErAQv6PLnFKg2&export=download
 Chave,1,noite,GrayScale Log Transform,in,1,452.73,1204 x 1600,https://drive.google.com/uc?id=1k8NBIhTVJRlcwmxj8JnkxR0iLgtStBs3&export=download
-Chave,2,dia,Original,in,1,162.85,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Chave2-dia-in-1.jpeg
-Chave,2,dia,Original,in,2,161.66,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Chave2-dia-in-2.jpeg
-Chave,2,dia,Original,in,3,154.38,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Chave2-dia-in-3.jpeg
-Chave,2,dia,Original,out,4,410.63,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Chave2-dia-out-4.jpeg
-Chave,2,dia,Original,out,5,281.18,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Chave2-dia-out-5.jpeg
-Chave,2,dia,Original,out,6,375.61,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Chave2-dia-out-6.jpeg
+Chave,2,dia,Original,in,1,162.85,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Chave2-dia-in-fundo1.jpeg
+Chave,2,dia,Original,in,2,161.66,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Chave2-dia-in-fundo2.jpeg
+Chave,2,dia,Original,in,3,154.38,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Chave2-dia-in-fundo3.jpeg
+Chave,2,dia,Original,out,4,410.63,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Chave2-dia-out-fundo4.jpeg
+Chave,2,dia,Original,out,5,281.18,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Chave2-dia-out-fundo5.jpeg
+Chave,2,dia,Original,out,6,375.61,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Chave2-dia-out-fundo6.jpeg
 Chave,2,dia,GrayScale,out,4,426.44,1204 x 1600,https://drive.google.com/uc?id=1fFgPYzP1hxOEEXuBz6lQDqRdoMpqF68Q&export=download
 Chave,2,dia,GrayScale,out,5,252.81,1204 x 1600,https://drive.google.com/uc?id=1JEdjgg_MzKKU-fIKfh9Z4mGe7GAshS0z&export=download
 Chave,2,dia,GrayScale,out,6,384.96,1204 x 1600,https://drive.google.com/uc?id=1np-zi39f5zcriNGtjK6FjFVohUnM5icU&export=download
@@ -323,12 +323,12 @@ Chave,2,dia,GrayScale Log Transform,out,5,493.42,1204 x 1600,https://drive.googl
 Chave,2,dia,GrayScale Log Transform,in,1,322.22,1204 x 1600,https://drive.google.com/uc?id=1HoMJM1jBQIHVKTvCIw1GEpoL462tRoYb&export=download
 Chave,2,dia,GrayScale Log Transform,in,2,319.8,1204 x 1600,https://drive.google.com/uc?id=1Q_ULvOPQqkyXfi6xtOVWHL6RLbb_o5Mb&export=download
 Chave,2,dia,GrayScale Log Transform,in,3,295.21,1204 x 1600,https://drive.google.com/uc?id=1csPxb62n7IFCmVp2FpwFSiBzvuBxIzIm&export=download
-Chave,2,noite,Original,in,1,215.45,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Chave2-noite-in-1.jpeg
-Chave,2,noite,Original,in,2,232.52,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Chave2-noite-in-2.jpeg
-Chave,2,noite,Original,in,3,209.69,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Chave2-noite-in-3.jpeg
-Chave,2,noite,Original,out,4,385.88,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Chave2-noite-out-4.jpeg
-Chave,2,noite,Original,out,5,212.97,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Chave2-noite-out-5.jpeg
-Chave,2,noite,Original,out,6,136.84,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Chave2-noite-out-6.jpeg
+Chave,2,noite,Original,in,1,215.45,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Chave2-noite-in-fundo1.jpeg
+Chave,2,noite,Original,in,2,232.52,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Chave2-noite-in-fundo2.jpeg
+Chave,2,noite,Original,in,3,209.69,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Chave2-noite-in-fundo3.jpeg
+Chave,2,noite,Original,out,4,385.88,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Chave2-noite-out-fundo4.jpeg
+Chave,2,noite,Original,out,5,212.97,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Chave2-noite-out-fundo5.jpeg
+Chave,2,noite,Original,out,6,136.84,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Chave2-noite-out-fundo6.jpeg
 Chave,2,noite,GrayScale,in,3,208.34,1204 x 1600,https://drive.google.com/uc?id=1dnNSHHwnvkNWY2Xqg_v9jd3szVPYdS65&export=download
 Chave,2,noite,GrayScale,out,6,128.55,1204 x 1600,https://drive.google.com/uc?id=1c-99-Rv_aoQvn4ElF3RDSBmF1p28PqWP&export=download
 Chave,2,noite,GrayScale,in,2,223.69,1204 x 1600,https://drive.google.com/uc?id=1YN4fiQyhagzvqJtHO_z9KIKPwOF5u_0D&export=download
@@ -359,12 +359,12 @@ Chave,2,noite,GrayScale Log Transform,out,4,749.38,1204 x 1600,https://drive.goo
 Chave,2,noite,GrayScale Log Transform,in,1,413.22,1204 x 1600,https://drive.google.com/uc?id=1a-aNk3x9SNR1jT_BGxWqYx3WnzpGVRoM&export=download
 Chave,2,noite,GrayScale Log Transform,in,3,409.36,1204 x 1600,https://drive.google.com/uc?id=1wjv42ziGMRYW5DBk75QkLt0tv9bayJQn&export=download
 Chave,2,noite,GrayScale Log Transform,in,2,454.95,1204 x 1600,https://drive.google.com/uc?id=1y7gdjK5SK4GxNTui_YkAq9orwM8A49KN&export=download
-Chave,3,dia,Original,in,1,199.74,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Chave3-dia-in-1.jpeg
-Chave,3,dia,Original,in,2,155.38,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Chave3-dia-in-2.jpeg
-Chave,3,dia,Original,in,3,163.43,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Chave3-dia-in-3.jpeg
-Chave,3,dia,Original,out,4,456.4,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Chave3-dia-out-4.jpeg
-Chave,3,dia,Original,out,5,271.68,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Chave3-dia-out-5.jpeg
-Chave,3,dia,Original,out,6,377.04,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Chave3-dia-out-6.jpeg
+Chave,3,dia,Original,in,1,199.74,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Chave3-dia-in-fundo1.jpeg
+Chave,3,dia,Original,in,2,155.38,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Chave3-dia-in-fundo2.jpeg
+Chave,3,dia,Original,in,3,163.43,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Chave3-dia-in-fundo3.jpeg
+Chave,3,dia,Original,out,4,456.4,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Chave3-dia-out-fundo4.jpeg
+Chave,3,dia,Original,out,5,271.68,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Chave3-dia-out-fundo5.jpeg
+Chave,3,dia,Original,out,6,377.04,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Chave3-dia-out-fundo6.jpeg
 Chave,3,dia,GrayScale,out,6,386.55,1204 x 1600,https://drive.google.com/uc?id=113drKb1asRxhShzFsK81alN5PKSokYl-&export=download
 Chave,3,dia,GrayScale,in,2,145.19,1204 x 1600,https://drive.google.com/uc?id=1OshFuzDDO-0asu8UBhF6037bHo3uGss-&export=download
 Chave,3,dia,GrayScale,in,3,162.66,1204 x 1600,https://drive.google.com/uc?id=1EU8mlZ0BRH7huan-cW6DcfyylbOsrKFh&export=download
@@ -395,12 +395,12 @@ Chave,3,dia,GrayScale Log Transform,out,6,750.11,1204 x 1600,https://drive.googl
 Chave,3,dia,GrayScale Log Transform,out,4,895.58,1204 x 1600,https://drive.google.com/uc?id=1AnsRfyAco8rktlXspMP1WU_F5yn0XvOq&export=download
 Chave,3,dia,GrayScale Log Transform,in,2,308.28,1204 x 1600,https://drive.google.com/uc?id=1LFbP3y9xWO_s_YLQhZlFUKLq92wQUyzv&export=download
 Chave,3,dia,GrayScale Log Transform,in,1,392.75,1204 x 1600,https://drive.google.com/uc?id=1N99XefjXifM6nZUalykOkSHf0oViP6Ha&export=download
-Chave,3,noite,Original,in,1,229.42,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Chave3-noite-in-1.jpeg
-Chave,3,noite,Original,in,2,214.17,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Chave3-noite-in-2.jpeg
-Chave,3,noite,Original,in,3,201.96,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Chave3-noite-in-3.jpeg
-Chave,3,noite,Original,out,4,392.09,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Chave3-noite-out-4.jpeg
-Chave,3,noite,Original,out,5,183.96,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Chave3-noite-out-5.jpeg
-Chave,3,noite,Original,out,6,197.27,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Chave3-noite-out-6.jpeg
+Chave,3,noite,Original,in,1,229.42,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Chave3-noite-in-fundo1.jpeg
+Chave,3,noite,Original,in,2,214.17,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Chave3-noite-in-fundo2.jpeg
+Chave,3,noite,Original,in,3,201.96,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Chave3-noite-in-fundo3.jpeg
+Chave,3,noite,Original,out,4,392.09,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Chave3-noite-out-fundo4.jpeg
+Chave,3,noite,Original,out,5,183.96,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Chave3-noite-out-fundo5.jpeg
+Chave,3,noite,Original,out,6,197.27,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Chave3-noite-out-fundo6.jpeg
 Chave,3,noite,GrayScale,out,5,169.49,1204 x 1600,https://drive.google.com/uc?id=1S19napre73NWLju8BNXKDwakLduiHSl-&export=download
 Chave,3,noite,GrayScale,out,4,400.13,1204 x 1600,https://drive.google.com/uc?id=1_k1cSScURupL1GkRk4YOatYS2YSTozoa&export=download
 Chave,3,noite,GrayScale,in,1,218.9,1204 x 1600,https://drive.google.com/uc?id=1Qe6GjXp4wVh2pLEQlXCl9PsgZ-K0Mn8_&export=download
@@ -431,12 +431,12 @@ Chave,3,noite,GrayScale Log Transform,in,3,394.12,1204 x 1600,https://drive.goog
 Chave,3,noite,GrayScale Log Transform,in,2,440.16,1204 x 1600,https://drive.google.com/uc?id=1dX997l6PpzYWiKn6WBXAgtTZdV5-f084&export=download
 Chave,3,noite,GrayScale Log Transform,out,4,759.35,1204 x 1600,https://drive.google.com/uc?id=1yuos_zo_Ur69SRIedTuET3u7NSA6d4Nz&export=download
 Chave,3,noite,GrayScale Log Transform,in,1,444.57,1204 x 1600,https://drive.google.com/uc?id=1S6cjJALXDI0ixo_n7FZqcADjVWRu8B35&export=download
-Garfo,1,dia,Original,in,1,195.1,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Garfo1-dia-in-1.jpeg
-Garfo,1,dia,Original,in,2,207.67,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Garfo1-dia-in-2.jpeg
-Garfo,1,dia,Original,in,3,130.03,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Garfo1-dia-in-3.jpeg
-Garfo,1,dia,Original,out,4,482.55,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Garfo1-dia-out-4.jpeg
-Garfo,1,dia,Original,out,5,305.67,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Garfo1-dia-out-5.jpeg
-Garfo,1,dia,Original,out,6,316.34,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Garfo1-dia-out-6.jpeg
+Garfo,1,dia,Original,in,1,195.1,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Garfo1-dia-in-fundo1.jpeg
+Garfo,1,dia,Original,in,2,207.67,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Garfo1-dia-in-fundo2.jpeg
+Garfo,1,dia,Original,in,3,130.03,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Garfo1-dia-in-fundo3.jpeg
+Garfo,1,dia,Original,out,4,482.55,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Garfo1-dia-out-fundo4.jpeg
+Garfo,1,dia,Original,out,5,305.67,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Garfo1-dia-out-fundo5.jpeg
+Garfo,1,dia,Original,out,6,316.34,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Garfo1-dia-out-fundo6.jpeg
 Garfo,1,dia,GrayScale,out,4,504.98,1204 x 1600,https://drive.google.com/uc?id=1itWx-mxDDdURHpwmu--Pr7fhY_uWNQxk&export=download
 Garfo,1,dia,GrayScale,out,6,322.6,1204 x 1600,https://drive.google.com/uc?id=13QgtzTRtAieMEmeZm_OfYqLwD1pTeeTS&export=download
 Garfo,1,dia,GrayScale,in,3,125.81,1204 x 1600,https://drive.google.com/uc?id=1BpGlinDprlMexzSOlQ-WyLhhYgbw7Epw&export=download
@@ -467,12 +467,12 @@ Garfo,1,dia,GrayScale Log Transform,out,4,953.53,1204 x 1600,https://drive.googl
 Garfo,1,dia,GrayScale Log Transform,in,2,372.37,1204 x 1600,https://drive.google.com/uc?id=1f1tzIXQ-HnxHfCc97nH6aCDwO7yGKYWd&export=download
 Garfo,1,dia,GrayScale Log Transform,in,1,369.88,1204 x 1600,https://drive.google.com/uc?id=1VRobnKJWjW7W2OeURKIU4KCIsH1dlA_3&export=download
 Garfo,1,dia,GrayScale Log Transform,in,3,248.82,1204 x 1600,https://drive.google.com/uc?id=1-0z4v8U_jC7tPC4vLaPbA4N7Zq81ejNU&export=download
-Garfo,1,noite,Original,in,1,211.54,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Garfo1-noite-in-1.jpeg
-Garfo,1,noite,Original,in,2,251.14,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Garfo1-noite-in-2.jpeg
-Garfo,1,noite,Original,in,3,173.53,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Garfo1-noite-in-3.jpeg
-Garfo,1,noite,Original,out,4,340.82,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Garfo1-noite-out-4.jpeg
-Garfo,1,noite,Original,out,5,362.41,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Garfo1-noite-out-5.jpeg
-Garfo,1,noite,Original,out,6,203.84,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Garfo1-noite-out-6.jpeg
+Garfo,1,noite,Original,in,1,211.54,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Garfo1-noite-in-fundo1.jpeg
+Garfo,1,noite,Original,in,2,251.14,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Garfo1-noite-in-fundo2.jpeg
+Garfo,1,noite,Original,in,3,173.53,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Garfo1-noite-in-fundo3.jpeg
+Garfo,1,noite,Original,out,4,340.82,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Garfo1-noite-out-fundo4.jpeg
+Garfo,1,noite,Original,out,5,362.41,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Garfo1-noite-out-fundo5.jpeg
+Garfo,1,noite,Original,out,6,203.84,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Garfo1-noite-out-fundo6.jpeg
 Garfo,1,noite,GrayScale,out,6,190.25,1204 x 1600,https://drive.google.com/uc?id=1RRH1fKZIAML9JfSTiyiCauuWAGyCYJn_&export=download
 Garfo,1,noite,GrayScale,out,4,344.02,1204 x 1600,https://drive.google.com/uc?id=1QJhJF_cp3xMl8E1HtMq_8mGqdMpBHeTr&export=download
 Garfo,1,noite,GrayScale,in,2,236.89,1204 x 1600,https://drive.google.com/uc?id=1tFPUmpvitlsL8iJgS4pPAlI3ne9S37gc&export=download
@@ -503,12 +503,12 @@ Garfo,1,noite,GrayScale Log Transform,out,4,663.45,1204 x 1600,https://drive.goo
 Garfo,1,noite,GrayScale Log Transform,out,5,660.08,1204 x 1600,https://drive.google.com/uc?id=1L2_1OtRQHTEA-PFi5wOeaVfXrY0q209z&export=download
 Garfo,1,noite,GrayScale Log Transform,in,2,470.81,1204 x 1600,https://drive.google.com/uc?id=1jFphDGaktBoxf8Fzdv7h-yhtZAKdqxqH&export=download
 Garfo,1,noite,GrayScale Log Transform,in,1,387.88,1204 x 1600,https://drive.google.com/uc?id=1a2tf-xle45kOODKF1lgihihcMLsHfb3u&export=download
-Garfo,2,dia,Original,in,1,187.31,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Garfo2-dia-in-1.jpeg
-Garfo,2,dia,Original,in,2,159.6,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Garfo2-dia-in-2.jpeg
-Garfo,2,dia,Original,in,3,158.52,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Garfo2-dia-in-3.jpeg
-Garfo,2,dia,Original,out,4,423.93,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Garfo2-dia-out-4.jpeg
-Garfo,2,dia,Original,out,5,309.62,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Garfo2-dia-out-5.jpeg
-Garfo,2,dia,Original,out,6,343.68,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Garfo2-dia-out-6.jpeg
+Garfo,2,dia,Original,in,1,187.31,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Garfo2-dia-in-fundo1.jpeg
+Garfo,2,dia,Original,in,2,159.6,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Garfo2-dia-in-fundo2.jpeg
+Garfo,2,dia,Original,in,3,158.52,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Garfo2-dia-in-fundo3.jpeg
+Garfo,2,dia,Original,out,4,423.93,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Garfo2-dia-out-fundo4.jpeg
+Garfo,2,dia,Original,out,5,309.62,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Garfo2-dia-out-fundo5.jpeg
+Garfo,2,dia,Original,out,6,343.68,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Garfo2-dia-out-fundo6.jpeg
 Garfo,2,dia,GrayScale,in,2,138.26,1204 x 1600,https://drive.google.com/uc?id=1ZWTw1wpjv1yjc7HXf2GlQUmNjzXq16cZ&export=download
 Garfo,2,dia,GrayScale,out,5,291.67,1204 x 1600,https://drive.google.com/uc?id=1AjiqwG0EKy0y7sF_U2lO-fUWTib4Z1R0&export=download
 Garfo,2,dia,GrayScale,out,6,351.9,1204 x 1600,https://drive.google.com/uc?id=12g3Zu5HfIiZpc5F7_GC5p__CoyVkql_R&export=download
@@ -539,12 +539,12 @@ Garfo,2,dia,GrayScale Log Transform,in,2,303.62,1204 x 1600,https://drive.google
 Garfo,2,dia,GrayScale Log Transform,in,3,302.26,1204 x 1600,https://drive.google.com/uc?id=16Xa5uo7NXJhT45ON4i68qS7BmpCkBjNZ&export=download
 Garfo,2,dia,GrayScale Log Transform,in,1,356.32,1204 x 1600,https://drive.google.com/uc?id=1H1pEe7FQhsSNPSGwCOZFJPF6F27B0L8_&export=download
 Garfo,2,dia,GrayScale Log Transform,out,4,850.52,1204 x 1600,https://drive.google.com/uc?id=1QEc5vvAK1GfdzxieceIFbbtkhn2-4fSi&export=download
-Garfo,2,noite,Original,in,1,198.26,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Garfo2-noite-in-1.jpeg
-Garfo,2,noite,Original,in,2,259.85,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Garfo2-noite-in-2.jpeg
-Garfo,2,noite,Original,in,3,251.15,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Garfo2-noite-in-3.jpeg
-Garfo,2,noite,Original,out,4,330.21,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Garfo2-noite-out-4.jpeg
-Garfo,2,noite,Original,out,5,321.67,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Garfo2-noite-out-5.jpeg
-Garfo,2,noite,Original,out,6,190.15,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Garfo2-noite-out-6.jpeg
+Garfo,2,noite,Original,in,1,198.26,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Garfo2-noite-in-fundo1.jpeg
+Garfo,2,noite,Original,in,2,259.85,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Garfo2-noite-in-fundo2.jpeg
+Garfo,2,noite,Original,in,3,251.15,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Garfo2-noite-in-fundo3.jpeg
+Garfo,2,noite,Original,out,4,330.21,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Garfo2-noite-out-fundo4.jpeg
+Garfo,2,noite,Original,out,5,321.67,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Garfo2-noite-out-fundo5.jpeg
+Garfo,2,noite,Original,out,6,190.15,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Garfo2-noite-out-fundo6.jpeg
 Garfo,2,noite,GrayScale,in,3,252.76,1204 x 1600,https://drive.google.com/uc?id=15A9Htx9B7zbm6TPjLWwwgvulID-MpLnW&export=download
 Garfo,2,noite,GrayScale,in,1,182.83,1204 x 1600,https://drive.google.com/uc?id=11In66KMftscZJf0TI3xxtHZgGtC6riG6&export=download
 Garfo,2,noite,GrayScale,out,4,334.56,1204 x 1600,https://drive.google.com/uc?id=1fxQ7uib8zF95t92S4wkbBpc8Rvd5Jnpk&export=download
@@ -575,12 +575,12 @@ Garfo,2,noite,GrayScale Log Transform,out,5,575.16,1204 x 1600,https://drive.goo
 Garfo,2,noite,GrayScale Log Transform,in,1,367.66,1204 x 1600,https://drive.google.com/uc?id=1nl2VgDArwbx5rBkk3k6NjSbziSyvFD7a&export=download
 Garfo,2,noite,GrayScale Log Transform,in,3,496.01,1204 x 1600,https://drive.google.com/uc?id=1FDcNryaYeg3YlCWFjhXAvjFzAjnigST5&export=download
 Garfo,2,noite,GrayScale Log Transform,in,2,489.29,1204 x 1600,https://drive.google.com/uc?id=1byy5NZvwrKOgitjIdGRw-8DM-IpjxzXj&export=download
-Garfo,3,dia,Original,in,1,201.96,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Garfo3-dia-in-1.jpeg
-Garfo,3,dia,Original,in,2,195.19,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Garfo3-dia-in-2.jpeg
-Garfo,3,dia,Original,in,3,167.77,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Garfo3-dia-in-3.jpeg
-Garfo,3,dia,Original,out,4,479.66,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Garfo3-dia-out-4.jpeg
-Garfo,3,dia,Original,out,5,324.18,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Garfo3-dia-out-5.jpeg
-Garfo,3,dia,Original,out,6,319.94,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Garfo3-dia-out-6.jpeg
+Garfo,3,dia,Original,in,1,201.96,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Garfo3-dia-in-fundo1.jpeg
+Garfo,3,dia,Original,in,2,195.19,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Garfo3-dia-in-fundo2.jpeg
+Garfo,3,dia,Original,in,3,167.77,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Garfo3-dia-in-fundo3.jpeg
+Garfo,3,dia,Original,out,4,479.66,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Garfo3-dia-out-fundo4.jpeg
+Garfo,3,dia,Original,out,5,324.18,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Garfo3-dia-out-fundo5.jpeg
+Garfo,3,dia,Original,out,6,319.94,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Garfo3-dia-out-fundo6.jpeg
 Garfo,3,dia,GrayScale,out,4,501.0,1204 x 1600,https://drive.google.com/uc?id=1vlD3xU6yEysi0kPWrfed-Y9gS8hLP5gU&export=download
 Garfo,3,dia,GrayScale,out,5,296.11,1204 x 1600,https://drive.google.com/uc?id=1RVqBYOo-K0n1oZY8j_1uVJRKW7USqIze&export=download
 Garfo,3,dia,GrayScale,out,6,324.88,1204 x 1600,https://drive.google.com/uc?id=1ni_31fi_481u3wuS8KxuSff1sXU-l76F&export=download
@@ -611,12 +611,12 @@ Garfo,3,dia,GrayScale Log Transform,out,6,641.03,1204 x 1600,https://drive.googl
 Garfo,3,dia,GrayScale Log Transform,out,5,573.53,1204 x 1600,https://drive.google.com/uc?id=1gGoDmlBuMrabPUKrP-tPTKSS_-MlSo6d&export=download
 Garfo,3,dia,GrayScale Log Transform,in,2,358.46,1204 x 1600,https://drive.google.com/uc?id=17jPPUzrsBbFYPxZJx3V2-Da16wnQZwTw&export=download
 Garfo,3,dia,GrayScale Log Transform,in,1,381.12,1204 x 1600,https://drive.google.com/uc?id=1I4u-gMQ-A42uGaZeL1jSTLRuCyiGluqx&export=download
-Garfo,3,noite,Original,in,1,194.73,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Garfo3-noite-in-1.jpeg
-Garfo,3,noite,Original,in,2,225.83,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Garfo3-noite-in-2.jpeg
-Garfo,3,noite,Original,in,3,171.21,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Garfo3-noite-in-3.jpeg
-Garfo,3,noite,Original,out,4,368.58,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Garfo3-noite-out-4.jpeg
-Garfo,3,noite,Original,out,5,348.17,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Garfo3-noite-out-5.jpeg
-Garfo,3,noite,Original,out,6,203.23,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Garfo3-noite-out-6.jpeg
+Garfo,3,noite,Original,in,1,194.73,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Garfo3-noite-in-fundo1.jpeg
+Garfo,3,noite,Original,in,2,225.83,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Garfo3-noite-in-fundo2.jpeg
+Garfo,3,noite,Original,in,3,171.21,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Garfo3-noite-in-fundo3.jpeg
+Garfo,3,noite,Original,out,4,368.58,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Garfo3-noite-out-fundo4.jpeg
+Garfo,3,noite,Original,out,5,348.17,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Garfo3-noite-out-fundo5.jpeg
+Garfo,3,noite,Original,out,6,203.23,1204 x 1600,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Garfo3-noite-out-fundo6.jpeg
 Garfo,3,noite,GrayScale,in,2,214.51,1204 x 1600,https://drive.google.com/uc?id=1B1wtBEtpIPWnhZIpvB1XI8Kf8VeKQqFs&export=download
 Garfo,3,noite,GrayScale,out,4,373.27,1204 x 1600,https://drive.google.com/uc?id=1DSUs6Es-7ZEPURmjzTZ88qmBS4iN8g_6&export=download
 Garfo,3,noite,GrayScale,in,1,176.06,1204 x 1600,https://drive.google.com/uc?id=1cmy4LVa_KpPuKJtV_WPBxCmkdgtAnYYY&export=download
@@ -647,12 +647,12 @@ Garfo,3,noite,GrayScale Log Transform,in,1,349.18,1204 x 1600,https://drive.goog
 Garfo,3,noite,GrayScale Log Transform,in,2,437.18,1204 x 1600,https://drive.google.com/uc?id=1PdCe824W6AGKe1NSnncTKrqYdVFkR4Qp&export=download
 Garfo,3,noite,GrayScale Log Transform,out,4,716.38,1204 x 1600,https://drive.google.com/uc?id=1FYysWD0mXr0pT06QQCcHIQ7MnjCuMjKB&export=download
 Garfo,3,noite,GrayScale Log Transform,out,5,631.01,1204 x 1600,https://drive.google.com/uc?id=1H_5qp7NdcvujSbutvfGKotxmJfykfw6U&export=download
-Oculos,1,dia,Original,in,16,184.17,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Oculos1-dia-in-16.jpeg
-Oculos,1,dia,Original,in,17,123.95,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Oculos1-dia-in-17.jpeg
-Oculos,1,dia,Original,in,18,125.39,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Oculos1-dia-in-18.jpeg
-Oculos,1,dia,Original,out,18,85.97,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Oculos1-dia-out-18.jpeg
-Oculos,1,dia,Original,out,19,197.09,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Oculos1-dia-out-19.jpeg
-Oculos,1,dia,Original,out,20,358.41,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Oculos1-dia-out-20.jpeg
+Oculos,1,dia,Original,in,16,184.17,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Oculos1-dia-in-fundo16.jpeg
+Oculos,1,dia,Original,in,17,123.95,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Oculos1-dia-in-fundo17.jpeg
+Oculos,1,dia,Original,in,18,125.39,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Oculos1-dia-in-fundo18.jpeg
+Oculos,1,dia,Original,out,18,85.97,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Oculos1-dia-out-fundo18.jpeg
+Oculos,1,dia,Original,out,19,197.09,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Oculos1-dia-out-fundo19.jpeg
+Oculos,1,dia,Original,out,20,358.41,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Oculos1-dia-out-fundo20.jpeg
 Oculos,1,dia,GrayScale,in,17,186.63,1600 x 1200,https://drive.google.com/uc?id=1jFzCsaDBY5k3c9CjlmlBA4vSlm2yrPuv&export=download
 Oculos,1,dia,GrayScale,in,18,193.48,1600 x 1200,https://drive.google.com/uc?id=1-6X0__j4RNsAW5EXASghJoiPegAHnPpW&export=download
 Oculos,1,dia,GrayScale,out,18,127.44,1600 x 1200,https://drive.google.com/uc?id=1LlYR-UMkj7kPEg_qdfXVu4y2FmqDUROb&export=download
@@ -683,12 +683,12 @@ Oculos,1,dia,GrayScale Log Transform,out,20,713.59,1600 x 1200,https://drive.goo
 Oculos,1,dia,GrayScale Log Transform,in,18,328.06,1600 x 1200,https://drive.google.com/uc?id=1yY9ql72Mr7XaO5H5Lj3lLtyxl7eB1u6t&export=download
 Oculos,1,dia,GrayScale Log Transform,in,17,312.69,1600 x 1200,https://drive.google.com/uc?id=1ZTtOPDLKlJuQJBP6uYWKqX5yDwY0ubvk&export=download
 Oculos,1,dia,GrayScale Log Transform,in,16,452.42,1600 x 1200,https://drive.google.com/uc?id=1016K6KqOx7ikwp1M2876YAWjcM1OdTDt&export=download
-Oculos,1,noite,Original,in,16,195.76,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Oculos1-noite-in-16.jpeg
-Oculos,1,noite,Original,in,17,158.57,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Oculos1-noite-in-17.jpeg
-Oculos,1,noite,Original,in,18,96.04,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Oculos1-noite-in-18.jpeg
-Oculos,1,noite,Original,out,16,87.48,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Oculos1-noite-out-16.jpeg
-Oculos,1,noite,Original,out,18,65.84,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Oculos1-noite-out-18.jpeg
-Oculos,1,noite,Original,out,19,29.3,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Oculos1-noite-out-19.jpeg
+Oculos,1,noite,Original,in,16,195.76,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Oculos1-noite-in-fundo16.jpeg
+Oculos,1,noite,Original,in,17,158.57,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Oculos1-noite-in-fundo17.jpeg
+Oculos,1,noite,Original,in,18,96.04,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Oculos1-noite-in-fundo18.jpeg
+Oculos,1,noite,Original,out,16,87.48,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Oculos1-noite-out-fundo16.jpeg
+Oculos,1,noite,Original,out,18,65.84,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Oculos1-noite-out-fundo18.jpeg
+Oculos,1,noite,Original,out,19,29.3,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Oculos1-noite-out-fundo19.jpeg
 Oculos,1,noite,GrayScale,in,16,186.65,1600 x 1200,https://drive.google.com/uc?id=1Er0ylCwmRHD7lRxGeA7L3am0MMwXWen-&export=download
 Oculos,1,noite,GrayScale,out,18,64.18,1600 x 1200,https://drive.google.com/uc?id=1D7TNo7wpSISCnpwvNbKsb7LHvf7FBx8v&export=download
 Oculos,1,noite,GrayScale,in,18,94.89,1600 x 1200,https://drive.google.com/uc?id=1MnY05FXj9DC_dVbk1v2_Iw19nFre__vD&export=download
@@ -719,12 +719,12 @@ Oculos,1,noite,GrayScale Log Transform,out,16,223.77,1600 x 1200,https://drive.g
 Oculos,1,noite,GrayScale Log Transform,in,18,190.16,1600 x 1200,https://drive.google.com/uc?id=1Fmu0LIhIyYdUoVTG4uF2sCJH7Oo3l5Q9&export=download
 Oculos,1,noite,GrayScale Log Transform,in,17,290.9,1600 x 1200,https://drive.google.com/uc?id=1HVjki--q3fKiRLg-sPHeuH0ZVyYtwTs-&export=download
 Oculos,1,noite,GrayScale Log Transform,in,16,367.26,1600 x 1200,https://drive.google.com/uc?id=1JmJluoQjj564KmxPreW1L3ijKMEOVcks&export=download
-Oculos,2,dia,Original,in,16,179.85,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Oculos2-dia-in-16.jpeg
-Oculos,2,dia,Original,in,17,121.52,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Oculos2-dia-in-17.jpeg
-Oculos,2,dia,Original,in,18,116.08,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Oculos2-dia-in-18.jpeg
-Oculos,2,dia,Original,out,18,91.36,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Oculos2-dia-out-18.jpeg
-Oculos,2,dia,Original,out,19,220.71,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Oculos2-dia-out-19.jpeg
-Oculos,2,dia,Original,out,20,273.71,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Oculos2-dia-out-20.jpeg
+Oculos,2,dia,Original,in,16,179.85,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Oculos2-dia-in-fundo16.jpeg
+Oculos,2,dia,Original,in,17,121.52,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Oculos2-dia-in-fundo17.jpeg
+Oculos,2,dia,Original,in,18,116.08,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Oculos2-dia-in-fundo18.jpeg
+Oculos,2,dia,Original,out,18,91.36,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Oculos2-dia-out-fundo18.jpeg
+Oculos,2,dia,Original,out,19,220.71,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Oculos2-dia-out-fundo19.jpeg
+Oculos,2,dia,Original,out,20,273.71,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Oculos2-dia-out-fundo20.jpeg
 Oculos,2,dia,GrayScale,in,17,180.69,1600 x 1200,https://drive.google.com/uc?id=1BG3pY18i5nXzPTb8ogRvvH-93hqUXWRs&export=download
 Oculos,2,dia,GrayScale,out,19,324.53,1600 x 1200,https://drive.google.com/uc?id=1v6ytwcGlOSoCWY7ACL3oB0dyNd5kNIUr&export=download
 Oculos,2,dia,GrayScale,out,20,390.98,1600 x 1200,https://drive.google.com/uc?id=16lKQzCTjuW82vAzaBkcSa3cbF9sno0RO&export=download
@@ -755,12 +755,12 @@ Oculos,2,dia,GrayScale Log Transform,in,18,303.59,1600 x 1200,https://drive.goog
 Oculos,2,dia,GrayScale Log Transform,out,18,242.69,1600 x 1200,https://drive.google.com/uc?id=1zQDpUVqkydmbWJAlK_OdFgDGjA2N0QwT&export=download
 Oculos,2,dia,GrayScale Log Transform,out,20,671.2,1600 x 1200,https://drive.google.com/uc?id=18ATMUuCofsDf0TJEVoO1eS2pp_l30kY9&export=download
 Oculos,2,dia,GrayScale Log Transform,in,16,442.32,1600 x 1200,https://drive.google.com/uc?id=1YeWC8Ua2xdihykySsZ1dlIjqTVbImMl8&export=download
-Oculos,2,noite,Original,in,16,216.16,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Oculos2-noite-in-16.jpeg
-Oculos,2,noite,Original,in,17,149.39,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Oculos2-noite-in-17.jpeg
-Oculos,2,noite,Original,in,18,98.01,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Oculos2-noite-in-18.jpeg
-Oculos,2,noite,Original,out,16,60.33,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Oculos2-noite-out-16.jpeg
-Oculos,2,noite,Original,out,18,79.44,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Oculos2-noite-out-18.jpeg
-Oculos,2,noite,Original,out,19,48.29,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Oculos2-noite-out-19.jpeg
+Oculos,2,noite,Original,in,16,216.16,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Oculos2-noite-in-fundo16.jpeg
+Oculos,2,noite,Original,in,17,149.39,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Oculos2-noite-in-fundo17.jpeg
+Oculos,2,noite,Original,in,18,98.01,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Oculos2-noite-in-fundo18.jpeg
+Oculos,2,noite,Original,out,16,60.33,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Oculos2-noite-out-fundo16.jpeg
+Oculos,2,noite,Original,out,18,79.44,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Oculos2-noite-out-fundo18.jpeg
+Oculos,2,noite,Original,out,19,48.29,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Oculos2-noite-out-fundo19.jpeg
 Oculos,2,noite,GrayScale,out,16,56.75,1600 x 1200,https://drive.google.com/uc?id=13rnqjQWlM1Y8Q8Z3BE3T02dl0Ag4eMnD&export=download
 Oculos,2,noite,GrayScale,in,16,208.4,1600 x 1200,https://drive.google.com/uc?id=1kUYSq0TbQ7Cr1ymlJ8jRHrQVSbDyY9Eg&export=download
 Oculos,2,noite,GrayScale,in,18,97.75,1600 x 1200,https://drive.google.com/uc?id=1uRsSM8k-piOYcRiYSGwsiq69PESL6kWq&export=download
@@ -791,12 +791,12 @@ Oculos,2,noite,GrayScale Log Transform,out,16,202.6,1600 x 1200,https://drive.go
 Oculos,2,noite,GrayScale Log Transform,in,16,411.22,1600 x 1200,https://drive.google.com/uc?id=1EjsPqTFNEnnHF2vy8SLurRFXYsYm6vKO&export=download
 Oculos,2,noite,GrayScale Log Transform,out,18,209.42,1600 x 1200,https://drive.google.com/uc?id=1mEAbHzDUd-QUtjDnx2rYCRjLHCcHhuZY&export=download
 Oculos,2,noite,GrayScale Log Transform,in,17,275.55,1600 x 1200,https://drive.google.com/uc?id=1peiQZDjcgTTHgqWF0wYGigHhU56TsWhY&export=download
-Oculos,3,dia,Original,in,16,154.32,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Oculos3-dia-in-16.jpeg
-Oculos,3,dia,Original,in,17,122.47,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Oculos3-dia-in-17.jpeg
-Oculos,3,dia,Original,in,18,109.31,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Oculos3-dia-in-18.jpeg
-Oculos,3,dia,Original,out,18,109.45,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Oculos3-dia-out-18.jpeg
-Oculos,3,dia,Original,out,19,247.35,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Oculos3-dia-out-19.jpeg
-Oculos,3,dia,Original,out,20,243.7,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Oculos3-dia-out-20.jpeg
+Oculos,3,dia,Original,in,16,154.32,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Oculos3-dia-in-fundo16.jpeg
+Oculos,3,dia,Original,in,17,122.47,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Oculos3-dia-in-fundo17.jpeg
+Oculos,3,dia,Original,in,18,109.31,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Oculos3-dia-in-fundo18.jpeg
+Oculos,3,dia,Original,out,18,109.45,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Oculos3-dia-out-fundo18.jpeg
+Oculos,3,dia,Original,out,19,247.35,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Oculos3-dia-out-fundo19.jpeg
+Oculos,3,dia,Original,out,20,243.7,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Oculos3-dia-out-fundo20.jpeg
 Oculos,3,dia,GrayScale,out,19,366.51,1600 x 1200,https://drive.google.com/uc?id=1UdehM7HomiYHRwemZbRAyvbijzwsSfYB&export=download
 Oculos,3,dia,GrayScale,out,20,346.29,1600 x 1200,https://drive.google.com/uc?id=143hCWBGjVKP_LgjgGliSg3jj4rFCBSQ_&export=download
 Oculos,3,dia,GrayScale,out,18,166.69,1600 x 1200,https://drive.google.com/uc?id=1rn5j7QirjzC-NIyqCkd2cr-Wq5rkwGe3&export=download
@@ -827,12 +827,12 @@ Oculos,3,dia,GrayScale Log Transform,in,17,309.97,1600 x 1200,https://drive.goog
 Oculos,3,dia,GrayScale Log Transform,out,18,285.09,1600 x 1200,https://drive.google.com/uc?id=1muecNi2XUXdRUFro6FTM5qUi-dvIa6GA&export=download
 Oculos,3,dia,GrayScale Log Transform,in,16,379.44,1600 x 1200,https://drive.google.com/uc?id=154QZIaGJwp26aN05Hnqy8tnoB8CyKN-8&export=download
 Oculos,3,dia,GrayScale Log Transform,in,18,284.38,1600 x 1200,https://drive.google.com/uc?id=1t5KZsAVBxMkQCNN9y6er5C1teoBOhicM&export=download
-Oculos,3,noite,Original,in,16,197.28,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Oculos3-noite-in-16.jpeg
-Oculos,3,noite,Original,in,17,157.2,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Oculos3-noite-in-17.jpeg
-Oculos,3,noite,Original,in,18,90.65,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Oculos3-noite-in-18.jpeg
-Oculos,3,noite,Original,out,16,76.95,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Oculos3-noite-out-16.jpeg
-Oculos,3,noite,Original,out,18,74.29,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Oculos3-noite-out-18.jpeg
-Oculos,3,noite,Original,out,19,41.5,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Oculos3-noite-out-19.jpeg
+Oculos,3,noite,Original,in,16,197.28,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Oculos3-noite-in-fundo16.jpeg
+Oculos,3,noite,Original,in,17,157.2,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Oculos3-noite-in-fundo17.jpeg
+Oculos,3,noite,Original,in,18,90.65,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Oculos3-noite-in-fundo18.jpeg
+Oculos,3,noite,Original,out,16,76.95,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Oculos3-noite-out-fundo16.jpeg
+Oculos,3,noite,Original,out,18,74.29,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Oculos3-noite-out-fundo18.jpeg
+Oculos,3,noite,Original,out,19,41.5,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Oculos3-noite-out-fundo19.jpeg
 Oculos,3,noite,GrayScale,out,18,71.39,1600 x 1200,https://drive.google.com/uc?id=1005ExdXexD6Pp0AFXVMMOTDio2wmRF1a&export=download
 Oculos,3,noite,GrayScale,in,17,147.34,1600 x 1200,https://drive.google.com/uc?id=1dPnUp_pskWnmDzHFBrkXhyvx0xExHijb&export=download
 Oculos,3,noite,GrayScale,in,16,190.01,1600 x 1200,https://drive.google.com/uc?id=1XsmpUzO_WBdJGLlmXkScK-kwiu89eheG&export=download
@@ -863,12 +863,12 @@ Oculos,3,noite,GrayScale Log Transform,out,19,90.76,1600 x 1200,https://drive.go
 Oculos,3,noite,GrayScale Log Transform,in,17,291.24,1600 x 1200,https://drive.google.com/uc?id=1pC6byLyy8xaQAmVgHQAXP2ze34q7vCQ6&export=download
 Oculos,3,noite,GrayScale Log Transform,in,16,379.47,1600 x 1200,https://drive.google.com/uc?id=1fbil_VZDWRN27rjokH4tnJvocdAqeK9X&export=download
 Oculos,3,noite,GrayScale Log Transform,in,18,176.72,1600 x 1200,https://drive.google.com/uc?id=1A11NaQnToZKYJ8yjkMV-OefWNByXpNbI&export=download
-Relogio,1,dia,Original,in,10,2543.1,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Relogio1-dia-in-10.jpg
-Relogio,1,dia,Original,in,8,3869.13,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Relogio1-dia-in-8.jpg
-Relogio,1,dia,Original,in,9,2292.86,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Relogio1-dia-in-9.jpg
-Relogio,1,dia,Original,out,11,4350.51,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Relogio1-dia-out-11.jpg
-Relogio,1,dia,Original,out,12,2432.6,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Relogio1-dia-out-12.jpg
-Relogio,1,dia,Original,out,13,3466.54,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Relogio1-dia-out-13.jpg
+Relogio,1,dia,Original,in,10,2543.1,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Relogio1-dia-in-fundo10.jpg
+Relogio,1,dia,Original,in,8,3869.13,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Relogio1-dia-in-fundo8.jpg
+Relogio,1,dia,Original,in,9,2292.86,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Relogio1-dia-in-fundo9.jpg
+Relogio,1,dia,Original,out,11,4350.51,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Relogio1-dia-out-fundo11.jpg
+Relogio,1,dia,Original,out,12,2432.6,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Relogio1-dia-out-fundo12.jpg
+Relogio,1,dia,Original,out,13,3466.54,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Relogio1-dia-out-fundo13.jpg
 Relogio,1,dia,GrayScale,out,13,1092.91,4080 x 3072,https://drive.google.com/uc?id=120eaEhmPt6rTOJw2CY237ZTp5IpQ3XF4&export=download
 Relogio,1,dia,GrayScale,out,12,695.64,4080 x 3072,https://drive.google.com/uc?id=1PvopnJbqDioBp1JQllW_SKQ6ZRyHdQqd&export=download
 Relogio,1,dia,GrayScale,out,11,1558.47,4080 x 3072,https://drive.google.com/uc?id=1EzjZhma9CGVSHYoVQZO0vikVeexKDw03&export=download
@@ -899,12 +899,12 @@ Relogio,1,dia,GrayScale Log Transform,out,11,2984.8,4080 x 3072,https://drive.go
 Relogio,1,dia,GrayScale Log Transform,in,9,1275.64,4080 x 3072,https://drive.google.com/uc?id=1-7_SjhPTw1eeZD8bXxS0hoLpzgDTQd6r&export=download
 Relogio,1,dia,GrayScale Log Transform,in,8,2670.66,4080 x 3072,https://drive.google.com/uc?id=1m68RbCwHAyv884LlhysOWDBdQfzYSSAA&export=download
 Relogio,1,dia,GrayScale Log Transform,in,10,1353.54,4080 x 3072,https://drive.google.com/uc?id=12kA0P_roYujLiB9_YH0vMVrVObJLD36w&export=download
-Relogio,1,noite,Original,in,10,2634.21,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Relogio1-noite-in-10.jpg
-Relogio,1,noite,Original,in,8,2782.58,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Relogio1-noite-in-8.jpg
-Relogio,1,noite,Original,in,9,2088.48,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Relogio1-noite-in-9.jpg
-Relogio,1,noite,Original,out,11,2537.47,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Relogio1-noite-out-11.jpg
-Relogio,1,noite,Original,out,12,2501.88,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Relogio1-noite-out-12.jpg
-Relogio,1,noite,Original,out,14,2798.18,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Relogio1-noite-out-14.jpg
+Relogio,1,noite,Original,in,10,2634.21,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Relogio1-noite-in-fundo10.jpg
+Relogio,1,noite,Original,in,8,2782.58,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Relogio1-noite-in-fundo8.jpg
+Relogio,1,noite,Original,in,9,2088.48,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Relogio1-noite-in-fundo9.jpg
+Relogio,1,noite,Original,out,11,2537.47,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Relogio1-noite-out-fundo11.jpg
+Relogio,1,noite,Original,out,12,2501.88,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Relogio1-noite-out-fundo12.jpg
+Relogio,1,noite,Original,out,14,2798.18,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Relogio1-noite-out-fundo14.jpg
 Relogio,1,noite,GrayScale,out,11,727.46,4080 x 3072,https://drive.google.com/uc?id=1hKM41TvqMOlOmIUdIPsr_OTtXXhQo5dq&export=download
 Relogio,1,noite,GrayScale,out,12,768.41,4080 x 3072,https://drive.google.com/uc?id=1QWQKrNohbK4VNBA1TV8anRqeYPaN4HdQ&export=download
 Relogio,1,noite,GrayScale,out,14,879.87,4080 x 3072,https://drive.google.com/uc?id=1uOjfaiUMWzeBMq9DJAjMfi3G_2DNTWOQ&export=download
@@ -935,12 +935,12 @@ Relogio,1,noite,GrayScale Log Transform,out,11,1503.24,4080 x 3072,https://drive
 Relogio,1,noite,GrayScale Log Transform,in,9,1043.67,4080 x 3072,https://drive.google.com/uc?id=1-rFBQo4JTngEXVXQTR1wFUdZVbKccCjk&export=download
 Relogio,1,noite,GrayScale Log Transform,in,8,1795.4,4080 x 3072,https://drive.google.com/uc?id=14fzzdCWsxXttVHAlhWhYAQzJge7LaoSa&export=download
 Relogio,1,noite,GrayScale Log Transform,in,10,1476.52,4080 x 3072,https://drive.google.com/uc?id=1b7ae7qWTpcqEBiL_t7Pygsrge2MxVUqF&export=download
-Relogio,2,dia,Original,in,10,2562.73,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Relogio2-dia-in-10.jpg
-Relogio,2,dia,Original,in,8,3267.66,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Relogio2-dia-in-8.jpg
-Relogio,2,dia,Original,in,9,1908.69,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Relogio2-dia-in-9.jpg
-Relogio,2,dia,Original,out,11,4727.38,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Relogio2-dia-out-11.jpg
-Relogio,2,dia,Original,out,12,2484.44,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Relogio2-dia-out-12.jpg
-Relogio,2,dia,Original,out,13,3733.6,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Relogio2-dia-out-13.jpg
+Relogio,2,dia,Original,in,10,2562.73,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Relogio2-dia-in-fundo10.jpg
+Relogio,2,dia,Original,in,8,3267.66,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Relogio2-dia-in-fundo8.jpg
+Relogio,2,dia,Original,in,9,1908.69,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Relogio2-dia-in-fundo9.jpg
+Relogio,2,dia,Original,out,11,4727.38,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Relogio2-dia-out-fundo11.jpg
+Relogio,2,dia,Original,out,12,2484.44,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Relogio2-dia-out-fundo12.jpg
+Relogio,2,dia,Original,out,13,3733.6,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Relogio2-dia-out-fundo13.jpg
 Relogio,2,dia,GrayScale,out,11,1737.64,4080 x 3072,https://drive.google.com/uc?id=1Xg3FbHc0pVqwe7eH1gwu3_ZQ_GkrFzzA&export=download
 Relogio,2,dia,GrayScale,out,12,696.52,4080 x 3072,https://drive.google.com/uc?id=1y0l5lSiOXIgSpoZ4acqxpM5hdqVKVA_V&export=download
 Relogio,2,dia,GrayScale,out,13,1264.49,4080 x 3072,https://drive.google.com/uc?id=1ZYMGyRKkLEVIE2HnEM8ufYS8iqODbOjw&export=download
@@ -971,12 +971,12 @@ Relogio,2,dia,GrayScale Log Transform,out,11,3298.15,4080 x 3072,https://drive.g
 Relogio,2,dia,GrayScale Log Transform,in,9,1058.74,4080 x 3072,https://drive.google.com/uc?id=1-_lfUkjN0pZ1HvSKvgc-EZFf3H2WL4Ia&export=download
 Relogio,2,dia,GrayScale Log Transform,in,8,2076.83,4080 x 3072,https://drive.google.com/uc?id=1p5ZAJshprl8ltC3Hs3ljGTTTk0qXJ4gd&export=download
 Relogio,2,dia,GrayScale Log Transform,in,10,1420.14,4080 x 3072,https://drive.google.com/uc?id=14cK61ZCNIjjI_BE8uWMHkGLuJa5niuD8&export=download
-Relogio,2,noite,Original,in,10,2586.71,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Relogio2-noite-in-10.jpg
-Relogio,2,noite,Original,in,8,2580.06,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Relogio2-noite-in-8.jpg
-Relogio,2,noite,Original,in,9,2265.68,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Relogio2-noite-in-9.jpg
-Relogio,2,noite,Original,out,11,3487.84,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Relogio2-noite-out-11.jpg
-Relogio,2,noite,Original,out,12,3224.85,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Relogio2-noite-out-12.jpg
-Relogio,2,noite,Original,out,14,2062.64,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Relogio2-noite-out-14.jpg
+Relogio,2,noite,Original,in,10,2586.71,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Relogio2-noite-in-fundo10.jpg
+Relogio,2,noite,Original,in,8,2580.06,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Relogio2-noite-in-fundo8.jpg
+Relogio,2,noite,Original,in,9,2265.68,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Relogio2-noite-in-fundo9.jpg
+Relogio,2,noite,Original,out,11,3487.84,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Relogio2-noite-out-fundo11.jpg
+Relogio,2,noite,Original,out,12,3224.85,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Relogio2-noite-out-fundo12.jpg
+Relogio,2,noite,Original,out,14,2062.64,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Relogio2-noite-out-fundo14.jpg
 Relogio,2,noite,GrayScale,in,9,595.38,4080 x 3072,https://drive.google.com/uc?id=117Z0MTEIqk2alZqqSppRcTeRkVTX6ZhC&export=download
 Relogio,2,noite,GrayScale,out,14,506.33,4080 x 3072,https://drive.google.com/uc?id=10O7A1mHGuuXM0rIk62-tOX_ySZdRIX6x&export=download
 Relogio,2,noite,GrayScale,in,8,776.7,4080 x 3072,https://drive.google.com/uc?id=1gdlN2-Vr9NofqPs0JHDUmXaIMH69173u&export=download
@@ -1007,12 +1007,12 @@ Relogio,2,noite,GrayScale Log Transform,out,11,2374.62,4080 x 3072,https://drive
 Relogio,2,noite,GrayScale Log Transform,in,9,1222.37,4080 x 3072,https://drive.google.com/uc?id=1SIm2vfTjucNgT5IVS2hz8jvxzODKl4Da&export=download
 Relogio,2,noite,GrayScale Log Transform,in,8,1589.67,4080 x 3072,https://drive.google.com/uc?id=1YO_1dndlPybcYV82anbD46o3Ky0fWFxb&export=download
 Relogio,2,noite,GrayScale Log Transform,in,10,1516.72,4080 x 3072,https://drive.google.com/uc?id=1zAr8q3IiTfyzNl8znBm4zBNzL269TyeW&export=download
-Relogio,3,dia,Original,in,10,2836.87,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Relogio3-dia-in-10.jpg
-Relogio,3,dia,Original,in,3,2309.12,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Relogio3-dia-in-3.jpg
-Relogio,3,dia,Original,in,8,3250.69,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Relogio3-dia-in-8.jpg
-Relogio,3,dia,Original,out,11,4006.38,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Relogio3-dia-out-11.jpg
-Relogio,3,dia,Original,out,12,2125.9,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Relogio3-dia-out-12.jpg
-Relogio,3,dia,Original,out,13,3358.18,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Relogio3-dia-out-13.jpg
+Relogio,3,dia,Original,in,10,2836.87,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Relogio3-dia-in-fundo10.jpg
+Relogio,3,dia,Original,in,3,2309.12,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Relogio3-dia-in-fundo3.jpg
+Relogio,3,dia,Original,in,8,3250.69,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Relogio3-dia-in-fundo8.jpg
+Relogio,3,dia,Original,out,11,4006.38,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Relogio3-dia-out-fundo11.jpg
+Relogio,3,dia,Original,out,12,2125.9,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Relogio3-dia-out-fundo12.jpg
+Relogio,3,dia,Original,out,13,3358.18,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Relogio3-dia-out-fundo13.jpg
 Relogio,3,dia,GrayScale,out,13,1084.99,4080 x 3072,https://drive.google.com/uc?id=1uIWILiIO3nYmE5TRlWyHJdlhITXm6f2j&export=download
 Relogio,3,dia,GrayScale,out,12,533.31,4080 x 3072,https://drive.google.com/uc?id=1Ilo66JPh6QuEcXTljn1sh5c7VCtxgnIp&export=download
 Relogio,3,dia,GrayScale,in,8,1025.88,4080 x 3072,https://drive.google.com/uc?id=1Xt9vB77WO8JX46LiOjgvVTB2TfYHjL-4&export=download
@@ -1043,12 +1043,12 @@ Relogio,3,dia,GrayScale Log Transform,out,11,2672.66,4080 x 3072,https://drive.g
 Relogio,3,dia,GrayScale Log Transform,in,8,2104.48,4080 x 3072,https://drive.google.com/uc?id=1bSLBI9lf0Msj65WAJiDFvFxVoEdNFyrQ&export=download
 Relogio,3,dia,GrayScale Log Transform,in,3,1264.82,4080 x 3072,https://drive.google.com/uc?id=1kuMYhuzC_DVVYzvn0nEWBwpdnxzoTYcD&export=download
 Relogio,3,dia,GrayScale Log Transform,in,10,1599.45,4080 x 3072,https://drive.google.com/uc?id=1erarJ7JfJ7hxC0bQPn546jE97YEENO5G&export=download
-Relogio,3,noite,Original,in,10,2648.93,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Relogio3-noite-in-10.jpg
-Relogio,3,noite,Original,in,8,3747.27,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Relogio3-noite-in-8.jpg
-Relogio,3,noite,Original,in,9,2279.02,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Relogio3-noite-in-9.jpg
-Relogio,3,noite,Original,out,11,3773.77,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Relogio3-noite-out-11.jpg
-Relogio,3,noite,Original,out,12,2639.19,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Relogio3-noite-out-12.jpg
-Relogio,3,noite,Original,out,14,2645.18,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Relogio3-noite-out-14.jpg
+Relogio,3,noite,Original,in,10,2648.93,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Relogio3-noite-in-fundo10.jpg
+Relogio,3,noite,Original,in,8,3747.27,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Relogio3-noite-in-fundo8.jpg
+Relogio,3,noite,Original,in,9,2279.02,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Relogio3-noite-in-fundo9.jpg
+Relogio,3,noite,Original,out,11,3773.77,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Relogio3-noite-out-fundo11.jpg
+Relogio,3,noite,Original,out,12,2639.19,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Relogio3-noite-out-fundo12.jpg
+Relogio,3,noite,Original,out,14,2645.18,4080 x 3072,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Relogio3-noite-out-fundo14.jpg
 Relogio,3,noite,GrayScale,out,11,1217.28,4080 x 3072,https://drive.google.com/uc?id=1h0lpNYlI86dkm31tVtuN4WXxSXB7ULnQ&export=download
 Relogio,3,noite,GrayScale,out,12,811.58,4080 x 3072,https://drive.google.com/uc?id=1sh2ulT9VRhVqkIvjAVY-r9qrcYMIG6ak&export=download
 Relogio,3,noite,GrayScale,out,14,767.54,4080 x 3072,https://drive.google.com/uc?id=1xQXho0ZSh6xDaEkzAqXnlF78f2R37Fms&export=download
@@ -1079,12 +1079,12 @@ Relogio,3,noite,GrayScale Log Transform,out,11,2467.9,4080 x 3072,https://drive.
 Relogio,3,noite,GrayScale Log Transform,in,9,1184.9,4080 x 3072,https://drive.google.com/uc?id=1xt9wBP8byKTOoYpuIPFfueFu9DAYCjqK&export=download
 Relogio,3,noite,GrayScale Log Transform,in,8,2494.74,4080 x 3072,https://drive.google.com/uc?id=1NCgbItBj6EVKZJIyGnsvAmBCI32b58-r&export=download
 Relogio,3,noite,GrayScale Log Transform,in,10,1462.3,4080 x 3072,https://drive.google.com/uc?id=1BpOcQLnFlv7zbUugBrmzxJtCwjnxDnfI&export=download
-Tenis,1,dia,Original,in,16,182.84,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Tenis1-dia-in-16.jpeg
-Tenis,1,dia,Original,in,17,113.33,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Tenis1-dia-in-17.jpeg
-Tenis,1,dia,Original,in,18,86.95,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Tenis1-dia-in-18.jpeg
-Tenis,1,dia,Original,out,18,106.61,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Tenis1-dia-out-18.jpeg
-Tenis,1,dia,Original,out,19,178.43,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Tenis1-dia-out-19.jpeg
-Tenis,1,dia,Original,out,20,342.6,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Tenis1-dia-out-20.jpeg
+Tenis,1,dia,Original,in,16,182.84,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Tenis1-dia-in-fundo16.jpeg
+Tenis,1,dia,Original,in,17,113.33,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Tenis1-dia-in-fundo17.jpeg
+Tenis,1,dia,Original,in,18,86.95,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Tenis1-dia-in-fundo18.jpeg
+Tenis,1,dia,Original,out,18,106.61,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Tenis1-dia-out-fundo18.jpeg
+Tenis,1,dia,Original,out,19,178.43,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Tenis1-dia-out-fundo19.jpeg
+Tenis,1,dia,Original,out,20,342.6,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Tenis1-dia-out-fundo20.jpeg
 Tenis,1,dia,GrayScale,out,20,337.97,1600 x 1200,https://drive.google.com/uc?id=130qAra8JAiOTjP3vvW836iBJIw2ny5xx&export=download
 Tenis,1,dia,GrayScale,out,19,242.48,1600 x 1200,https://drive.google.com/uc?id=1snuuwD4ssPWBLnXEZQqwdcQko2__ovX_&export=download
 Tenis,1,dia,GrayScale,in,16,256.21,1600 x 1200,https://drive.google.com/uc?id=1xVPk1IoeNn9WO853MOSlVYN_UmcI7pOO&export=download
@@ -1115,12 +1115,12 @@ Tenis,1,dia,GrayScale Log Transform,in,16,445.52,1600 x 1200,https://drive.googl
 Tenis,1,dia,GrayScale Log Transform,out,18,265.75,1600 x 1200,https://drive.google.com/uc?id=11lbLi_3EX_FiWLV2Nu3GTOcPHVvdnQ-Y&export=download
 Tenis,1,dia,GrayScale Log Transform,in,17,284.61,1600 x 1200,https://drive.google.com/uc?id=10HfttpztaSyMOmDb4I7PnXBqnLBy1s3i&export=download
 Tenis,1,dia,GrayScale Log Transform,out,19,428.68,1600 x 1200,https://drive.google.com/uc?id=1_oZPvTjm_h6BTXMS5UG1uW-rf0XWkrm4&export=download
-Tenis,1,noite,Original,in,16,176.81,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Tenis1-noite-in-16.jpeg
-Tenis,1,noite,Original,in,17,124.44,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Tenis1-noite-in-17.jpeg
-Tenis,1,noite,Original,in,18,65.27,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Tenis1-noite-in-18.jpeg
-Tenis,1,noite,Original,out,16,78.18,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Tenis1-noite-out-16.jpeg
-Tenis,1,noite,Original,out,18,34.07,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Tenis1-noite-out-18.jpeg
-Tenis,1,noite,Original,out,19,40.73,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Tenis1-noite-out-19.jpeg
+Tenis,1,noite,Original,in,16,176.81,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Tenis1-noite-in-fundo16.jpeg
+Tenis,1,noite,Original,in,17,124.44,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Tenis1-noite-in-fundo17.jpeg
+Tenis,1,noite,Original,in,18,65.27,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Tenis1-noite-in-fundo18.jpeg
+Tenis,1,noite,Original,out,16,78.18,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Tenis1-noite-out-fundo16.jpeg
+Tenis,1,noite,Original,out,18,34.07,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Tenis1-noite-out-fundo18.jpeg
+Tenis,1,noite,Original,out,19,40.73,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Tenis1-noite-out-fundo19.jpeg
 Tenis,1,noite,GrayScale,in,16,162.08,1600 x 1200,https://drive.google.com/uc?id=1ukG1z0u0J_DmrCc6cFqy3Kwms0tqH9Mb&export=download
 Tenis,1,noite,GrayScale,in,18,87.09,1600 x 1200,https://drive.google.com/uc?id=1uKfqzi6iqTsaq1jbPMqgzz6yb5mFv3Qv&export=download
 Tenis,1,noite,GrayScale,in,17,114.99,1600 x 1200,https://drive.google.com/uc?id=1qTcQsz8ZGHHRmSROiik-G4LZafWU8b6j&export=download
@@ -1151,12 +1151,12 @@ Tenis,1,noite,GrayScale Log Transform,in,17,238.82,1600 x 1200,https://drive.goo
 Tenis,1,noite,GrayScale Log Transform,in,16,322.35,1600 x 1200,https://drive.google.com/uc?id=131SII6aIOIRq_LCK01LGzVm-4O61ZrIg&export=download
 Tenis,1,noite,GrayScale Log Transform,out,16,207.98,1600 x 1200,https://drive.google.com/uc?id=1raEZdxG6QaoRxN5aQWHvms1xFoeFXobt&export=download
 Tenis,1,noite,GrayScale Log Transform,in,18,177.64,1600 x 1200,https://drive.google.com/uc?id=1iFXmUuUWq0X6nxsn-h6oB0fUOkafUtYg&export=download
-Tenis,2,dia,Original,in,16,152.37,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Tenis2-dia-in-16.jpeg
-Tenis,2,dia,Original,in,17,99.02,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Tenis2-dia-in-17.jpeg
-Tenis,2,dia,Original,in,18,79.38,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Tenis2-dia-in-18.jpeg
-Tenis,2,dia,Original,out,18,97.0,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Tenis2-dia-out-18.jpeg
-Tenis,2,dia,Original,out,19,94.27,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Tenis2-dia-out-19.jpeg
-Tenis,2,dia,Original,out,20,282.25,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Tenis2-dia-out-20.jpeg
+Tenis,2,dia,Original,in,16,152.37,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Tenis2-dia-in-fundo16.jpeg
+Tenis,2,dia,Original,in,17,99.02,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Tenis2-dia-in-fundo17.jpeg
+Tenis,2,dia,Original,in,18,79.38,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Tenis2-dia-in-fundo18.jpeg
+Tenis,2,dia,Original,out,18,97.0,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Tenis2-dia-out-fundo18.jpeg
+Tenis,2,dia,Original,out,19,94.27,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Tenis2-dia-out-fundo19.jpeg
+Tenis,2,dia,Original,out,20,282.25,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Tenis2-dia-out-fundo20.jpeg
 Tenis,2,dia,GrayScale,in,18,109.05,1600 x 1200,https://drive.google.com/uc?id=1BmkkT-f_kuTXKn8fLCIxCgJ9IlnYkiPM&export=download
 Tenis,2,dia,GrayScale,out,19,130.39,1600 x 1200,https://drive.google.com/uc?id=1h40zLYEHg2lqSdmDMSuddmN79dXRyN2k&export=download
 Tenis,2,dia,GrayScale,out,20,277.92,1600 x 1200,https://drive.google.com/uc?id=19PkxGHflUzRWfaIlh0yDw6E4U_Mjbibo&export=download
@@ -1187,12 +1187,12 @@ Tenis,2,dia,GrayScale Log Transform,out,19,245.76,1600 x 1200,https://drive.goog
 Tenis,2,dia,GrayScale Log Transform,in,18,203.89,1600 x 1200,https://drive.google.com/uc?id=1tZzXM0GR4hiGbd8GEe85SgnGUV0rxIio&export=download
 Tenis,2,dia,GrayScale Log Transform,in,16,373.07,1600 x 1200,https://drive.google.com/uc?id=1Pn_gI_48VApxyRWVUmDHZZtQqui2-ARv&export=download
 Tenis,2,dia,GrayScale Log Transform,in,17,257.04,1600 x 1200,https://drive.google.com/uc?id=12FXdpJ9rX5UyvOvo_CLI8UnFEDkGX4yw&export=download
-Tenis,2,noite,Original,in,16,201.8,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Tenis2-noite-in-16.jpeg
-Tenis,2,noite,Original,in,17,116.18,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Tenis2-noite-in-17.jpeg
-Tenis,2,noite,Original,in,18,90.18,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Tenis2-noite-in-18.jpeg
-Tenis,2,noite,Original,out,16,77.63,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Tenis2-noite-out-16.jpeg
-Tenis,2,noite,Original,out,18,46.25,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Tenis2-noite-out-18.jpeg
-Tenis,2,noite,Original,out,19,44.17,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Tenis2-noite-out-19.jpeg
+Tenis,2,noite,Original,in,16,201.8,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Tenis2-noite-in-fundo16.jpeg
+Tenis,2,noite,Original,in,17,116.18,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Tenis2-noite-in-fundo17.jpeg
+Tenis,2,noite,Original,in,18,90.18,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Tenis2-noite-in-fundo18.jpeg
+Tenis,2,noite,Original,out,16,77.63,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Tenis2-noite-out-fundo16.jpeg
+Tenis,2,noite,Original,out,18,46.25,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Tenis2-noite-out-fundo18.jpeg
+Tenis,2,noite,Original,out,19,44.17,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Tenis2-noite-out-fundo19.jpeg
 Tenis,2,noite,GrayScale,in,16,192.24,1600 x 1200,https://drive.google.com/uc?id=1zYjfjZUsjZG_40z6SPC_Bi4oQiq845Ed&export=download
 Tenis,2,noite,GrayScale,out,16,70.55,1600 x 1200,https://drive.google.com/uc?id=1Xu7Up0Dw21ruwlTWL04mhKu6DlI10eWW&export=download
 Tenis,2,noite,GrayScale,in,18,84.38,1600 x 1200,https://drive.google.com/uc?id=1aUhwfmRxd0QRJOXb0A7BdfCBgb1n93sn&export=download
@@ -1223,12 +1223,12 @@ Tenis,2,noite,GrayScale Log Transform,out,16,220.88,1600 x 1200,https://drive.go
 Tenis,2,noite,GrayScale Log Transform,in,17,245.99,1600 x 1200,https://drive.google.com/uc?id=1b0KlX7VeMqM-QMCBdtVbH9n80d_m6_h0&export=download
 Tenis,2,noite,GrayScale Log Transform,in,18,187.23,1600 x 1200,https://drive.google.com/uc?id=1Zv_13G9O4f8h9eWmBNCBJ6f-A-3aEa3p&export=download
 Tenis,2,noite,GrayScale Log Transform,in,16,378.46,1600 x 1200,https://drive.google.com/uc?id=1-cmj_RYCnxbpDMeJsXubElUgPmvoWwdN&export=download
-Tenis,3,dia,Original,in,16,177.68,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Tenis3-dia-in-16.jpeg
-Tenis,3,dia,Original,in,17,110.42,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Tenis3-dia-in-17.jpeg
-Tenis,3,dia,Original,in,18,78.42,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Tenis3-dia-in-18.jpeg
-Tenis,3,dia,Original,out,18,97.77,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Tenis3-dia-out-18.jpeg
-Tenis,3,dia,Original,out,19,171.62,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Tenis3-dia-out-19.jpeg
-Tenis,3,dia,Original,out,20,287.35,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Tenis3-dia-out-20.jpeg
+Tenis,3,dia,Original,in,16,177.68,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Tenis3-dia-in-fundo16.jpeg
+Tenis,3,dia,Original,in,17,110.42,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Tenis3-dia-in-fundo17.jpeg
+Tenis,3,dia,Original,in,18,78.42,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Tenis3-dia-in-fundo18.jpeg
+Tenis,3,dia,Original,out,18,97.77,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Tenis3-dia-out-fundo18.jpeg
+Tenis,3,dia,Original,out,19,171.62,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Tenis3-dia-out-fundo19.jpeg
+Tenis,3,dia,Original,out,20,287.35,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Tenis3-dia-out-fundo20.jpeg
 Tenis,3,dia,GrayScale,out,19,235.83,1600 x 1200,https://drive.google.com/uc?id=171itZd5x52YPk0Rt6NIk_HYFtiBAWfY1&export=download
 Tenis,3,dia,GrayScale,in,16,247.61,1600 x 1200,https://drive.google.com/uc?id=1ULmtJIXwlGkIXH7Qc0DKaU0VEbwmdq3W&export=download
 Tenis,3,dia,GrayScale,out,18,131.88,1600 x 1200,https://drive.google.com/uc?id=1xUFwzUQPeFm_JIddk3nWM_hoi0IshT6l&export=download
@@ -1259,12 +1259,12 @@ Tenis,3,dia,GrayScale Log Transform,in,18,200.14,1600 x 1200,https://drive.googl
 Tenis,3,dia,GrayScale Log Transform,out,20,550.39,1600 x 1200,https://drive.google.com/uc?id=12wLA4j7csivAfdf2Rx4LJW19XV4ZXOJ_&export=download
 Tenis,3,dia,GrayScale Log Transform,in,16,429.9,1600 x 1200,https://drive.google.com/uc?id=1XWOWcfOFGDOCa_laf-9rR6994Ti9e9Nc&export=download
 Tenis,3,dia,GrayScale Log Transform,in,17,279.27,1600 x 1200,https://drive.google.com/uc?id=1irDC4f0nK_Tay6nT5GIJGE_27oTwsEA2&export=download
-Tenis,3,noite,Original,in,16,193.87,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Tenis3-noite-in-16.jpeg
-Tenis,3,noite,Original,in,17,127.98,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Tenis3-noite-in-17.jpeg
-Tenis,3,noite,Original,in,18,61.39,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Tenis3-noite-in-18.jpeg
-Tenis,3,noite,Original,out,16,69.71,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Tenis3-noite-out-16.jpeg
-Tenis,3,noite,Original,out,18,63.49,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Tenis3-noite-out-18.jpeg
-Tenis,3,noite,Original,out,19,33.34,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Tenis3-noite-out-19.jpeg
+Tenis,3,noite,Original,in,16,193.87,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Tenis3-noite-in-fundo16.jpeg
+Tenis,3,noite,Original,in,17,127.98,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Tenis3-noite-in-fundo17.jpeg
+Tenis,3,noite,Original,in,18,61.39,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Tenis3-noite-in-fundo18.jpeg
+Tenis,3,noite,Original,out,16,69.71,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Tenis3-noite-out-fundo16.jpeg
+Tenis,3,noite,Original,out,18,63.49,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Tenis3-noite-out-fundo18.jpeg
+Tenis,3,noite,Original,out,19,33.34,1600 x 1200,https://raw.githubusercontent.com/Luisa-Andrade/Visao-Computacional/main/banco-de-imagens/Tenis3-noite-out-fundo19.jpeg
 Tenis,3,noite,GrayScale,in,17,117.69,1600 x 1200,https://drive.google.com/uc?id=1S-mwWxxDvsBkUe3QD4Qx8ezV-uDoUame&export=download
 Tenis,3,noite,GrayScale,out,18,56.5,1600 x 1200,https://drive.google.com/uc?id=1XAeY4qwqDe7HXPItes5VsrnlAfP6NGFb&export=download
 Tenis,3,noite,GrayScale,in,18,80.46,1600 x 1200,https://drive.google.com/uc?id=15xXQ2Sy6a4dLnwxBI55kDJuhQYOAMcXh&export=download
