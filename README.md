@@ -29,7 +29,7 @@
 - O EP2.1 contém o código em Python que visualiza a base usando funções MNIST-like.
 
 #EPs 2.2
-- A pasta normalizedDataSet contém as imagens com as seguinter funções: <br>
+- As pastas normalizedDataSet, augmentedDataSet e originalGrayDataSet contém as imagens com as seguintes funções: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;- Protótipo médio de cada classe; <br>
 &nbsp;&nbsp;&nbsp;&nbsp;- Histograma médio de cada classe; <br>
 &nbsp;&nbsp;&nbsp;&nbsp;- Variância do histograma de cada classe. <br>
