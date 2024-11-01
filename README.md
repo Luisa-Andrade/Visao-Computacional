@@ -26,7 +26,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;- Filtro da média implementado usando convolução. <br>
 - A Tabela-Detalhada-EP2.1 contém a tabela com todas as informações das imagens originais junto com o augmentedDataSet. Da seguinte forma: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;- Nome do objeto | Variação do Objeto | Dia/Noite | Funções | Ambiente | Fundo | Tamanho (KB) | Dimensão (pixels) (Largura x Altura) | URL da Imagem <br>
-- O EP2.1 contém o código em Python que visualiza a base usando funções MNIST-like.
+- O EP2.1 contém o código em Python que visualiza a base usando funções MNIST-like. <br>
+<br>
 
 ##EPs 2.2
 - As pastas normalizedDataSet, augmentedDataSet e originalGrayDataSet contém as imagens com as seguintes funções: <br>
